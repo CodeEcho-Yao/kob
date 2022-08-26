@@ -1,24 +1,5 @@
 # web
 
-## Project setup
-```
-npm install
-```
+双人游戏，两条蛇在有障碍物的地图内活动，身体逐步变长，直至撞到障碍物或者另一条蛇游戏结束
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://cdn.acwing.com/media/article/image/2022/07/14/1_d3eb847803-snake.png)
